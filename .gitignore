@@ -1,1 +1,5 @@
 dbpassword.txt
+[password]
+[a-zA-Z0-9].c
+*.txt
+
